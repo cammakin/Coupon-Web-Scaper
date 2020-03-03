@@ -16,12 +16,14 @@ pairs with the coupon thus maximizing savings on coupon
 
 The web scraper requires 2 packages: [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) and [requests_html](https://pypi.org/project/requests-html/) to run.
 
-Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ pip install bs4
 $ pip install requests-html
 ```
+
+Then run the script
+...
 
 ### Todos
 
